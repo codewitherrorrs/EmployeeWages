@@ -6,7 +6,7 @@
         {
            // EmployeeWageProblem.Employee();
             EmployeeWageProblem employee = new EmployeeWageProblem();
-            employee.Employee();
+            employee.switchCase();
         }
     }
 }
